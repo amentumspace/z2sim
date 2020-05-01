@@ -1,0 +1,3 @@
+/home/iwan/projects/jabiru/z2sim/build/CMakeFiles/rebuild_cache.dir
+/home/iwan/projects/jabiru/z2sim/build/CMakeFiles/edit_cache.dir
+/home/iwan/projects/jabiru/z2sim/build/CMakeFiles/sim.dir
